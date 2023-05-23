@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShadAfridi
-- 👀 I’m interested in full-stack development jobs, including but not limited to, React, JavaScript, ASP.NET, Flutter.
+- 👀 I’m interested in full-stack development jobs, including but not limited to, NextJs, React, JavaScript, ASP.NET, Flutter.
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 Reach me at shadafridi03@gmail.com
